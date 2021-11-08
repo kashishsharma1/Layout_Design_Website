@@ -13,7 +13,7 @@ html{
 .header{
     width: 100%;
     height: 70px;
-    background-color: rgb(7, 114, 25);
+    background-color: rgb(45, 38, 65);
     align-items: center;
     justify-content: center;
     padding: 5px 15px;
@@ -58,7 +58,7 @@ html{
     border: 3px solid black;
     display: inline-block;
     margin-top: 70px;
-    margin-left: 100px;
+    margin-left: 80px;
     margin-right: 70px;
     border-radius: 30%;
     align-content: center;
@@ -76,34 +76,34 @@ html{
     width: 100%;
     height: 100vh;
     background-size: cover;
-    background: rgba(0,0,0,0.7) url('../images/back.jpg');
+    background: rgba(0,0,0,0.7) url("https://source.unsplash.com/1600x900/?code,webdesign,water,nature");
     align-content: center;
     padding-top: 400px;
 }
 
 .tag-line{
-    background-color: cadetblue;
-    width: 600px;
+    background-color: rgba(118, 231, 83,0.6);
+    width: 800px;
     height: 300px;
     padding-top: 40px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 
 .tag-line p{
     font-family: 'Bonheur Royale', cursive;
-    font-size: 30px;
+    font-size: 90px;
 }
 
 .demo{
     width: 100%;
     height: 700px;
-    background-image: linear-gradient(to bottom right,white,rgb(185, 209, 49),green);
+    background-image: linear-gradient(to bottom right,white,rgb(80, 79, 173),rgb(18, 10, 136));
 }
 
 .contact{
     width: 100%;
-    height: 500px;
-    background: rgba(230, 168, 209, 0.7);
+    height: 300px;
+    background: rgba(58, 49, 92, 0.7);
 }
 
 footer{

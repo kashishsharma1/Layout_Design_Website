@@ -25,11 +25,18 @@
     border: 3px solid purple;
     color: whitesmoke;
     margin-left: 900px;
+    text-decoration: none;
+}
+
+.button a{
+    text-decoration: none;
+    color: blanchedalmond;
 }
 
 .button p{
     text-align: center;
     padding-top: 12px;
+    text-decoration: none;
 }
 
 .button:hover{

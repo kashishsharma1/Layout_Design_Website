@@ -13,8 +13,8 @@
 
 .part1{
     width: 600px;
-    height: 90%;
-    background: floralwhite;
+    height: 78%;
+    background: floralwhite url("../images/readable1.png");
     position: absolute;
     margin-top: 30px;
 }

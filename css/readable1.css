@@ -4,40 +4,116 @@
     box-sizing: border-box;
 }
 
-body{
-    align-items: center;
-    justify-content: center;
-    padding-top: 140px;
-    padding-left: 200px;
-}
 
-.body{
-
-    background: black;
+.section1{
+    width: 100%;
+    height: 900px;
+    padding-top: 150px;
+    background: pink;
     background-size: cover;
+    padding-left: 250px;
+    border-bottom: 5px solid gray;
 }
 
-.text{
+.section1 .button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(36, 36, 54);
+    font-size: 20px;
+    border-radius: 10px;
+    position: relative;
+    border: 3px solid purple;
+    color: whitesmoke;
+    margin-left: 900px;
+}
+
+.button p{
+    text-align: center;
+    padding-top: 12px;
+}
+
+.button:hover{
+    background-color: rgb(92, 92, 173);
+    cursor: pointer;
+}
+
+.section2{
+    width: 100%;
+    height: 900px;
+    padding-top: 150px;
+    background: pink;
+    background-size: cover;
+    padding-left: 250px;
+    
+}
+
+.text1{
     width: 800px;
     height: 600px;
-    background-color: blue;
+    background-color: rgb(255, 81, 0);
     display: inline-flex;
     position: absolute;
+    padding-top: 30px;
+    padding-left: 50px;
+    text-align: center;
+    border-radius: 40px;
 
 }
 
-.pic{
+.pic1{
     width: 600px;
     height: 400px;
     background-color: rgb(161, 16, 16);
-    display: inline-flex;
     margin-top: 0px;
     position: relative;
-    right: 400px;
+    top: 90px;
+    left: 500px;
+    border-radius: 40px;
 }
 
-.footer{
+.pic1 p{
+    text-align: center;
+}
+
+.section1 .text1,.pic1 p{
+    font-size: 50px;
+}
+
+.section2 p{
+    font-size: 50px;
+}
+
+.text2{
+    width: 800px;
+    height: 600px;
+    background-color:rgb(255, 81, 0);
+    display: inline-flex;
+    position: absolute;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 50px;
+    border-radius: 40px;
+}
+
+.pic2{
+    width: 600px;
+    height: 400px;
+    background-color: rgb(161, 16, 16);
+    margin-top: 0px;
+    position: relative;
+    top: 90px;
+    left: 500px;
+    text-align: center;
+    border-radius: 40px;
+}
+
+Footer{
     width: 100%;
     height: 70px;
-    color: chartreuse;
+    background-color: chartreuse;
+}
+
+Footer p{
+    font-size: 50px;
+    text-align: center;
 }

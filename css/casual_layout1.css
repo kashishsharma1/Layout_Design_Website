@@ -1,0 +1,193 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container {      
+
+    background-color:white;
+
+    padding:15px;
+
+}
+
+.head
+
+{
+
+    background-color: rgb(104, 109, 110);
+
+    height:80px;
+
+    margin-bottom: 10px;
+
+    font-size: 30px;
+
+    line-height: 80px;
+
+    justify-content: center;
+
+    display: flex;
+
+    color: white;
+
+}
+
+.ban{
+
+    background-color: rgb(47, 164, 211);
+
+    height:400px;
+
+    margin-bottom: 10px;
+
+    font-size: 30px;
+
+    line-height: 400px;
+
+    display: flex;
+
+    justify-content: center;
+
+    color: white;
+
+}
+
+.Section{
+
+    justify-content: center;
+
+    display:flex;
+
+}
+
+h1{
+
+            color: black;
+
+            font-size: 40px;
+
+            text-align: center;
+
+            margin: 25px;
+
+}
+
+.circle
+
+{
+
+    background-color: rgb(238, 146, 9);
+
+    border-radius: 150px;
+
+    height:300px;
+
+    width: 300px;
+
+    float: left;
+
+    margin: 20px 30px;    
+
+}
+
+.main
+
+{
+
+    background-color: gray;
+
+    height:400px;
+
+    width:50%;
+
+    margin-bottom: 10px;
+
+    margin-right: 10px;
+
+    font-size: 30px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    float:left;
+
+    color: white;
+
+}
+
+.Article
+
+{
+
+    
+
+    justify-content: center;
+
+    width: 50%;
+
+    float: right;
+
+}
+
+.art
+
+{
+
+    background-color:rgb(196, 74, 26);
+
+    justify-content: center;
+
+    font-size: 30px;
+
+    display: flex;
+
+    margin-bottom: 10px;
+
+    height: 31%;
+
+    align-items: center;
+
+    color: white;
+
+}
+
+.rec
+
+{
+
+    background-color: rgb(243, 138, 19);
+
+    height:400px;
+
+    width: 300px;
+
+    margin: 20px 30px;    
+
+}
+
+.foot
+
+{
+
+    background-color: rgb(211, 102, 169);
+
+    height:75px;
+
+    width: 100%;
+
+    font-size: 30px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    color: white;
+
+}

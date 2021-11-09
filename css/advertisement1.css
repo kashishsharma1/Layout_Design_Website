@@ -7,8 +7,8 @@
 .text1{
     width: 50%;
     height: 100vh;
-    background-color: blanchedalmond;
-
+    background-color: burlywood;
+    position: absolute;
 
 }
 
@@ -16,20 +16,41 @@
     width: 50%;
     height: 100vh;
     background-color: yellow;
-
+    position: relative;
+    top: 0;
+    left: 675px;
 } 
-
-.text2{
-    width: 50%;
-    height: 100vh;
-    background-color: greenyellow;
-
-}
 
 .pic2{
     width: 50%;
     height: 100vh;
-    background-color: pink;
+    background-color: greenyellow;
+    position: absolute;
+}
 
+.text2{
+    width: 50%;
+    height: 100vh;
+    background-color: blueviolet;
+    position: relative;
+    top: 0;
+    left: 675px;
+}
+
+.text1 p{
+    font-size: 60px;
+    text-align: center;
+}
+.pic1 p{
+    font-size: 60px;
+    text-align: center;
+}
+.text2 p{
+    font-size: 60px;
+    text-align: center;
+}
+.pic2 p{
+    font-size: 60px;
+    text-align: center;
 }
 

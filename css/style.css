@@ -58,7 +58,7 @@ html{
     border: 3px solid black;
     display: inline-block;
     margin-top: 70px;
-    margin-left: 80px;
+    margin-left: 250px;
     margin-right: 70px;
     border-radius: 30%;
     align-content: center;
@@ -88,12 +88,25 @@ html{
     padding-top: 40px;
     margin-left: 500px;
     padding-left: 40px;
+    position: absolute;
 }
 
 .tag-line p{
-    font-family: 'Bonheur Royale', cursive;
-    font-size: 90px;
+  font-family: 'Bonheur Royale', cursive;
+  font-size: 90px;
 }
+
+.tag-line .logo{
+  width: 80px;
+  height: 90px;
+  background: chartreuse url("../images/logo.png");
+  margin-left: 500px;
+  top: -120px;
+  position: relative;
+  border-radius: 40%;
+
+}
+
 
 .demo{
     width: 100%;

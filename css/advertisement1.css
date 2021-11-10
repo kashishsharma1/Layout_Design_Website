@@ -5,32 +5,61 @@
 }
 
 .text1{
-    width: 50%;
-    height: 100vh;
+    width: 850px;
+    height: 800px;
     background-color: burlywood;
     position: absolute;
 
 }
 
+.pic1 .button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(36, 36, 54);
+    font-size: 20px;
+    border-radius: 10px;
+    position: relative;
+    border: 3px solid purple;
+    color: whitesmoke;
+    margin-left: 900px;
+    text-decoration: none;
+}
+
+.button a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+.button p{
+    text-align: center;
+    padding-top: 12px;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: rgb(92, 92, 173);
+    cursor: pointer;
+}
+
 .pic1{
-    width: 50%;
-    height: 100vh;
+    width: 850px;
+    height: 800px;
     background-color: yellow;
     position: relative;
     top: 0;
-    left: 675px;
+    left: 670px;
 } 
 
 .pic2{
-    width: 50%;
-    height: 100vh;
+    width: 850px;
+    height: 800px;
     background-color: greenyellow;
     position: absolute;
 }
 
 .text2{
-    width: 50%;
-    height: 100vh;
+    width: 850px;
+    height: 800px;
     background-color: blueviolet;
     position: relative;
     top: 0;

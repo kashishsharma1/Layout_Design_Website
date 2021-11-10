@@ -17,6 +17,7 @@
     background: floralwhite url("../images/readable1.png");
     position: absolute;
     margin-top: 30px;
+    border-radius: 40px;
 }
 
 .part2{
@@ -29,5 +30,6 @@
     position: relative;
     top: 0;
     left: 700px;
+    border-radius: 40px;
     
 }

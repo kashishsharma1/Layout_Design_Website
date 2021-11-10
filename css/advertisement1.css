@@ -12,16 +12,15 @@
 
 }
 
-.pic1 .button{
+.text1 .button{
     width: 150px;
     height: 50px;
     background-color: rgb(36, 36, 54);
-    font-size: 20px;
     border-radius: 10px;
     position: relative;
     border: 3px solid purple;
     color: whitesmoke;
-    margin-left: 900px;
+    margin-left: 0px;
     text-decoration: none;
 }
 

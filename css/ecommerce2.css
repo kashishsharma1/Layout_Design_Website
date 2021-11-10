@@ -10,6 +10,7 @@ width: 283px;
 height: 1500px;
 left: 17px;
 top: 19px;
+margin-left: 50px;
 background: #C4C4C4;
 }
 .circle1
@@ -20,7 +21,8 @@ background: #C4C4C4;
     height:200px;
     width: 250px;
     float: right;
-    margin: 20px 30px;    
+    margin: 20px 30px;
+   
 }
 
 

@@ -1,0 +1,60 @@
+body
+{
+    background-color: cornsilk;
+}
+.code
+{
+    position: absolute;
+    width: 45%;
+    height: 500px;
+    left: 39px;
+    top: 36px;
+    
+    background: #C4C4C4;
+    border-radius: 4px;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.code1
+{
+    position: absolute;
+    width: 45%;
+    height:500px;
+    left: 758px;
+    top: 36px;
+    display: inline-block;
+    background: #C4C4C4;
+    border-radius: 4px;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.code1{
+    overflow-y: scroll;
+}
+.footer2
+
+{
+
+    background-color: rgb(211, 102, 169);
+
+    height:75px;
+
+    margin-top: 45%;
+
+    width: 100%;
+
+    font-size: 30px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    color: white;
+
+}

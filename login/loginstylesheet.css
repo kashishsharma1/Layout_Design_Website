@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+
+.owner{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(130, 192, 31);
+    padding: 30px 30px 30px 30px;
+}
+
+
+.min{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(23, 193, 32);
+    padding: 30px 30px 30px 30px;
+}
+
+
+.sub{
+    height: 80%;
+    width: 100%;
+    background-color: rgb(18, 173, 80);
+    padding: 30px 30px 30px 30px;
+}
+
+#user{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 60px;
+}
+
+#email{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 60px;
+}
+
+#pass{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 60px;
+}
+
+#lemail{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 60px;
+}
+
+#lpass{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 60px;
+}
+
+#signup{
+    padding: 10px 20px 10px 20px;
+    margin-left: 10px;
+}
+#login{
+    padding: 10px 20px 10px 20px;
+    margin-left: 10px;
+}
